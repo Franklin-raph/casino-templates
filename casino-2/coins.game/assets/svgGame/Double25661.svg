@@ -1,0 +1,48 @@
+<svg viewBox="226.299 100.865 137.921 141.154" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+      <stop stop-color="#B17715" offset="0"></stop>
+      <stop stop-color="#794209" offset="1"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+      <stop stop-color="#F36C33" offset="0"></stop>
+      <stop stop-color="#E43A17" offset="1"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3" gradientTransform="matrix(0.916372, 0.278398, -0.258546, 0.411568, 0.041814, -0.139199)">
+      <stop offset="0" style="stop-color: rgb(255, 194, 49);"></stop>
+      <stop offset="1" style="stop-color: rgb(255, 194, 49);"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+      <stop stop-color="#F36C33" offset="0"></stop>
+      <stop stop-color="#E43A17" offset="1"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+      <stop offset="0" style="stop-color: rgb(255, 194, 49);"></stop>
+      <stop offset="1" style="stop-color: rgb(255, 194, 49);"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+      <stop stop-color="#6F4617" offset="0"></stop>
+      <stop stop-color="#3C220A" offset="1"></stop>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+      <stop stop-color="#F1F1F5" offset="0"></stop>
+      <stop stop-color="#DEDEE7" offset="1"></stop>
+    </linearGradient>
+  </defs>
+  <title>roulette</title>
+  <desc>Created with Sketch.</desc>
+  <g id="ui-gambling-website-lined-icnos-casinoshunter" transform="matrix(3.496275, 0, 0, 3.496275, -962.35376, -7004.896484)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="4" transform="translate(50.000000, 1871.000000)">
+      <polygon id="Path-4-Copy-7" fill="url(#linearGradient-2)" points="293 191.212 297.407 190.818 298.967 184.347 300.451 181.99 297.721 179 295.022 181.169 293.099 187.333" transform="matrix(0.798635, -0.601815, 0.601815, 0.798635, -51.649593, 215.84766)"></polygon>
+      <polygon id="Path-4" fill="url(#linearGradient-3)" points="293.06 181 297.681 181 299.445 175.034 300.928 172.676 298.198 169.686 295.5 171.856 293.576 178.019"></polygon>
+      <polygon id="Path-4-Copy-2" fill="url(#linearGradient-4)" points="301 173.314 305.621 173.314 307.385 167.348 308.868 164.99 306.138 162 303.44 164.169 301.516 170.333" transform="matrix(0.707107, 0.707107, -0.707107, 0.707107, 207.864502, -166.515306)"></polygon>
+      <polygon id="Path-4-Copy" fill="url(#linearGradient-3)" points="312 174.314 316.621 174.314 318.385 168.347 319.868 165.99 317.138 163 314.44 165.169 312.516 171.333" transform="matrix(0, 1, -1, 0, 484.591003, -147.277008)"></polygon>
+      <polygon id="Path-4-Copy-3" fill="url(#linearGradient-4)" points="319 181.314 323.621 181.314 325.385 175.347 326.868 172.99 324.138 170 321.44 172.169 319.516 178.333" transform="matrix(-0.694658, 0.71934, -0.71934, -0.694658, 673.619893, 65.379343)"></polygon>
+      <polygon id="Path-4-Copy-4" points="319 193.314 323.621 193.314 325.385 187.347 326.868 184.99 324.138 182 321.44 184.169 319.516 190.333" transform="matrix(-1, 0, 0, -1, 645.868011, 375.313995)" style="fill: rgb(255, 194, 49);"></polygon>
+      <polygon id="Path-4-Copy-5" fill="url(#linearGradient-2)" points="311.411 200.311 315.817 199.917 317.378 193.446 318.861 191.089 316.131 188.099 313.433 190.268 311.51 196.432" transform="matrix(-0.656059, -0.75471, 0.75471, -0.656059, 375.315454, 559.451105)"></polygon>
+      <polygon id="Path-4-Copy-6" points="299.518 199.194 303.969 198.801 306.032 192.35 307.702 189.999 305.195 187.018 302.32 189.181 299.916 195.326" style="fill: rgb(255, 194, 49);" transform="matrix(0.027555, -0.99962, 0.99962, 0.027555, 102.211397, 491.279716)"></polygon>
+      <path d="M 310 163 C 319.941 163 328 171.059 328 181 C 328 190.941 319.941 199 310 199 C 300.059 199 292 190.941 292 181 C 292 171.059 300.059 163 310 163 Z M 301.294 190.655 L 299.171 192.779 C 301.791 195.189 305.218 196.736 309.001 196.969 L 309 193.962 C 306.046 193.737 303.367 192.525 301.294 190.655 Z M 311.001 193.962 L 311 196.969 C 314.925 196.727 318.467 195.07 321.122 192.502 C 321.061 192.463 321.003 192.417 320.95 192.364 L 318.983 190.398 C 316.874 192.414 314.088 193.727 311.001 193.962 Z M 310 170 C 303.925 170 299 174.925 299 181 C 299 187.075 303.925 192 310 192 C 316.075 192 321 187.075 321 181 C 321 174.925 316.075 170 310 170 Z M 297.038 182.001 L 294.031 182 C 294.25 185.55 295.626 188.786 297.786 191.336 L 299.916 189.205 C 298.29 187.21 297.245 184.722 297.038 182.001 Z M 320.32 188.906 L 322.364 190.95 C 322.395 190.981 322.424 191.014 322.451 191.049 C 324.475 188.544 325.758 185.417 325.969 182 L 322.962 182.001 C 322.765 184.588 321.811 186.964 320.32 188.906 Z M 322.032 170.453 L 319.905 172.58 C 321.633 174.611 322.748 177.18 322.962 180 L 325.969 180.001 C 325.744 176.352 324.297 173.035 322.032 170.453 Z M 299.916 172.795 L 297.786 170.664 C 295.626 173.214 294.249 176.451 294.031 180.001 L 297.038 180 C 297.245 177.278 298.29 174.791 299.916 172.795 Z M 299.171 169.221 L 301.295 171.344 C 303.368 169.474 306.046 168.262 309 168.038 L 309.001 165.031 C 305.218 165.264 301.791 166.811 299.171 169.221 Z M 311 165.031 L 311.001 168.038 C 313.856 168.255 316.454 169.395 318.497 171.161 L 320.623 169.035 C 318.03 166.732 314.684 165.258 311 165.031 Z" fill="url(#linearGradient-6)" fill-rule="nonzero"></path>
+      <g id="round" transform="matrix(0.707107, 0.707107, -0.707107, 0.707107, 310, 169.686279)" fill="url(#linearGradient-7)" fill-rule="nonzero"></g>
+    </g>
+  </g>
+</svg>

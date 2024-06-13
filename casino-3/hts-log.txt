@@ -1,0 +1,23 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Tue, 11 Jun 2024 16:06:01 at https://vingobet.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://vingobet.com/ -O "/home/frank/websites/casino-3" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:06:06	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.facebook.com/tr?id=3586194444927639&ev=PageView&noscript=1
+16:06:21	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://vingobet.com/)
+16:06:22	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://vingobet.com/)
+16:06:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://vingobet.com/favicon.ico
+16:06:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://vingobet.com/logo512.png
+16:06:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://analytics.tiktok.com/i18n/pixel/events.js
+16:06:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://vingobet.com/manifest.json
+16:06:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://vingobet.com/loading.gif
+16:07:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://vingobet.com/static/media/goldMining-bg.5ca1a0b119d83757cecd.png
+16:07:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://vingobet.com/static/media/bankIn.eca64fcdf39d7984f532.png
+16:07:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://vingobet.com/static/media/banner-negative.ecf3a80e07ced1bdd840.png
+16:07:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://vingobet.com/static/media/Back.b5a5fe9405ff88351b97.png
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 43 seconds : 100 links scanned, 103 files written (19975017 bytes overall) [17721286 bytes received at 172051 bytes/sec], 19977641 bytes transferred using HTTP compression in 106 files, ratio 88%, 4.8 requests per connection
+(2 errors, 10 warnings, 0 messages)

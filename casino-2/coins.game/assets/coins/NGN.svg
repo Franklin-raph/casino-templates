@@ -1,0 +1,8 @@
+<svg viewBox="0 0 71.848 73.052" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com/">
+  <defs>
+    <style bx:fonts="Actor">@import url(https://fonts.googleapis.com/css2?family=Actor%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <path d="M 67.924 36.526 C 67.924 54.199 53.597 68.526 35.924 68.526 C 18.251 68.526 3.924 54.199 3.924 36.526 C 3.924 18.853 18.251 4.526 35.924 4.526 C 53.597 4.526 67.924 18.853 67.924 36.526 Z" fill="#F45A43"></path>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M 35.924 62.526 C 50.284 62.526 61.924 50.885 61.924 36.526 C 61.924 22.166 50.284 10.526 35.924 10.526 C 21.565 10.526 9.924 22.166 9.924 36.526 C 9.924 50.885 21.565 62.526 35.924 62.526 Z M 35.924 68.526 C 53.597 68.526 67.924 54.199 67.924 36.526 C 67.924 18.853 53.597 4.526 35.924 4.526 C 18.251 4.526 3.924 18.853 3.924 36.526 C 3.924 54.199 18.251 68.526 35.924 68.526 Z" fill="#FF6C59"></path>
+  <text style="fill: rgb(255, 255, 255); font-family: Actor; font-size: 29.8px; paint-order: stroke; stroke: rgb(187, 84, 0); white-space: pre;" x="15.332" y="46.763">NG</text>
+</svg>

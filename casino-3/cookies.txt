@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tiktok.com	TRUE	/	FALSE	1999999999	_ttp	2hjrY7unD3CjmcKxcpvin83j25k
+analytics.tiktok.com	TRUE	/	FALSE	1999999999	SameSite	None
+

@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.afun.com	TRUE	/	FALSE	1999999999	__cf_bm	JydDf8KYbveqrpFcvYLXZaDO23SnWNRDmwBx.HglMVI-1718118952-1.0.1.1-WBdjJM.ORfv5XHoB0T.OG8To4Gmm6TTrP7ev2HaE7FSv7AGcyqpgRFYq9e77kCSCdpwmOWdTF4x_3EGi7H_k.g
+www.afun.com	TRUE	/	FALSE	1999999999	SameSite	None
+.afunimg8.com	TRUE	/	FALSE	1999999999	__cf_bm	JIhI9523rla2YB6noztH7ZpN1CEZKT2VzF0qL6mt7j8-1718118955-1.0.1.1-IH3V1LRKf1c6O80qopWtm3oMqgQh2WrlE9GAp6owpxWVyxacZurbYhEoWC9mqCbBtLvXl3E4i5DM7B17CWLssQ
+web-res-ccc.afunimg8.com	TRUE	/	FALSE	1999999999	SameSite	None
+

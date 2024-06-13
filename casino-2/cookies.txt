@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+coins.game	TRUE	/	FALSE	1999999999	PHPSESSID	c5j4deearegtrn2gh5p98gualm
+my.rtmark.net	TRUE	/	FALSE	1999999999	ID	088078eca4344a4cfb72f5f45990d835
+my.rtmark.net	TRUE	/	FALSE	1999999999	SameSite	None
+

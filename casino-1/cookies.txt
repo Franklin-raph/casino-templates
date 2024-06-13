@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.springbuilder.site	TRUE	/	FALSE	1999999999	__cf_bm	2fnT5HJLFZcAJuvFJNdIbEX5U6KS70UURbF43nUbBPQ-1718102583-1.0.1.1-VmNhjSGX80qWx3X2gf7dTeDT0F0jcSweT4qGC3HJeKWfHRTcVXOBDS4D7MQld6UXlqjEQKMgCuVAFfmcpC0HOg
+static.springbuilder.site	TRUE	/	FALSE	1999999999	SameSite	None
+win365.zc.al	TRUE	/	FALSE	1999999999	ci_session	qj6hc0rjhphpbt44mdeshd4jfenh78ff
+win365.zc.al	TRUE	/	FALSE	1999999999	SameSite	Lax
+
